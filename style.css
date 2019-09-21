@@ -5,5 +5,19 @@ body{
 h1,p{
     color: white;
     font-family: 'Roboto Mono', monospace;
+}
+
+footer{
+    text-align: left;
+    position:absolute;
+    bottom:0;
+}
+
+main{
     text-align: center;
 }
+
+a {
+    color: #CD546C;
+  }
+
