@@ -8,3 +8,13 @@ function newQuote() {
   
   document.getElementById('quotebox').innerHTML = randomItem;
 }
+
+window.onload = choosePic;
+
+var myPix = new Array("asuka.png","gendo.png","kaworu.png","misato.png","rei.png","ritsuko.png","shinji.png");
+
+function choosePic() {
+     var randomNum = Math.floor(Math.random() * myPix.length);
+     document.getElementById("myPicture").src = myPix[randomNum];
+
+}
