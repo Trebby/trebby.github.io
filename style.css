@@ -5,7 +5,7 @@ body{
 
 p{
     color: white;
-    text-align: left;
+    text-align: center;
     font-family: 'Roboto Mono', monospace;
 }
 
@@ -31,4 +31,12 @@ a {
     color: #CD546C;
     font-family: 'Roboto Mono', monospace;
   }
+
+  img{ 
+    position:fixed; 
+    bottom:0; 
+    right:0;
+    width: 200px;
+    height: 250 px;
+} 
 
