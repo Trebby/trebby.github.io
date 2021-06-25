@@ -3,14 +3,10 @@ body{
     background-image: "shinji.png";
 
 }
-@keyframes fadeIn {
-    0% {
-      opacity:0;
-    }
-    100% {
-      opacity:1;
-    }
-  }
+
+div{
+  padding: 50px;
+}
 
 p{
     color: white;
@@ -47,8 +43,4 @@ img{
     right:0;
     width: 300px;
     filter: brightness(30%);
-}
-
-div{
-  padding: 450px;
 }
