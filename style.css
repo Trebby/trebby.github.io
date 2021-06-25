@@ -49,3 +49,7 @@ img{
     filter: brightness(30%);
 } 
 
+
+div{
+  padding:50px;
+}
