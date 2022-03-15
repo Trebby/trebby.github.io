@@ -1,0 +1,77 @@
+body{
+    background-color: #131313;
+
+}
+
+
+.navbutton{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    margin: 50px;
+    padding: 10px
+}
+
+.navbutton:hover{
+    background-color: #CD546C;
+    border-radius: 10px;
+
+}
+
+
+a {
+    color: #CD546C;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: none;
+  }
+
+
+nav{
+    width: 100%;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.navactivated{
+    background-color: black;
+    color: #CD546C;
+    font-family: 'Roboto Mono', monospace;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+
+h1{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.subtitle{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+
+footer{
+    text-align: left;
+    position:absolute;
+    bottom:0;
+}
+
+
+.games{
+    padding-top: 100px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}

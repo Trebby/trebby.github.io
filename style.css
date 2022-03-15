@@ -42,3 +42,8 @@ img{
     width: 300px;
     filter: brightness(30%);
 }
+
+
+.games{
+    float: middle;
+}
